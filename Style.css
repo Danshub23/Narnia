@@ -11,7 +11,8 @@
     p.noindent {text-indent: 0% }
     p.noindent {text-align: center}
     a.noindent {text-indent: 0% }
-
+    a.ha{text-decoration: none;
+    color: #000;}
     p.t1 {text-indent: 0% ;
         font-size: 200%;
         text-align: center }
